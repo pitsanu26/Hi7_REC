@@ -1,0 +1,42 @@
+[
+  {
+    "FormName": "\u0E1F\u0E2D\u0E23\u0E4C\u0E21\u0E21\u0E32\u0E15\u0E23\u0E10\u0E32\u0E19 A4",
+    "Positions": [
+      {
+        "ElementName": "pnlHeader",
+        "Left": 250,
+        "Top": 40
+      },
+      {
+        "ElementName": "pnlDocInfo",
+        "Left": 550,
+        "Top": 40
+      },
+      {
+        "ElementName": "pnlPatientInfo",
+        "Left": 50,
+        "Top": 130
+      },
+      {
+        "ElementName": "pnlTableHead",
+        "Left": 50,
+        "Top": 210
+      },
+      {
+        "ElementName": "spItems",
+        "Left": 50,
+        "Top": 245
+      },
+      {
+        "ElementName": "pnlSummary",
+        "Left": 450,
+        "Top": 850
+      },
+      {
+        "ElementName": "pnlSignature",
+        "Left": 500,
+        "Top": 980
+      }
+    ]
+  }
+]
